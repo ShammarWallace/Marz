@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## WELCOME to Mars
 
-You can use the [editor on GitHub](https://github.com/ShammarWallace/Marz/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ypu can use [ChelseaFC](https://www.chelseafc.com/en) to view matchday line-ups and team stats and more as well as purchase for your favorite merchandise.
 
-### Markdown
+### TEAM NEWS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**BEN CHILWELL EXCLUSIVE INTERVIEW: SETTLING IN SEAMLESSLY AT CHELSEA, KEEPING THE BALANCE AND GETTING MID-GAME TIPS OFF LAMPARD**
 
-```markdown
-Syntax highlighted code block
+_Before he departed on international duty, the official Chelsea website caught up with Ben Chilwell to get his thoughts on his fantastic start to life in SW6, discuss his role in a new-look Blues team, and hear his one wish for the months ahead…
+Of our six summer recruits, it was perhaps the arrival of Ben Chilwell that received the least fanfare. He had long been linked with a move to Stamford Bridge, and, unlike the others, joined from a Premier League side._ 
 
-# Header 1
-## Header 2
-### Header 3
+Chilwell’s quality was well known, and his place in the England team established. But it has immediately been apparent why Frank Lampard made Chilwell such a priority when it came to remoulding his Chelsea squad.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShammarWallace/Marz/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[How Ben Chilwell helped outflank the Blades](https://www.chelseafc.com/en/news/2020/11/08/the-debrief--chelsea-vs-sheffield-united?utm_campaign=SEO&utm_medium=internallink&utm_source=web)
